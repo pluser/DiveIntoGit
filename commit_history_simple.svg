@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="128.17723mm"
+   height="38.219193mm"
+   viewBox="0 0 128.17723 38.219193"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="commit_history_simple.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.914906"
+     inkscape:cx="118.59142"
+     inkscape:cy="316.42595"
+     inkscape:window-width="1444"
+     inkscape:window-height="1236"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid929"
+       originx="-26.801528"
+       originy="-65.119448" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-6"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-9" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-26.801528,-65.119445)">
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       id="path114"
+       cx="40.920639"
+       cy="79.672348"
+       r="13.736611" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       id="path114-3"
+       cx="88.492699"
+       cy="79.238564"
+       r="13.736611" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.774708;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart)"
+       d="M 74.548181,79.301188 57.632244,79.530303"
+       id="path976"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       id="path114-3-3"
+       cx="135.54451"
+       cy="79.238556"
+       r="13.736611" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.774708;stroke-linecap:butt;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-6)"
+       d="m 121.6,79.301183 -16.91594,0.229115"
+       id="path976-7"
+       inkscape:connector-type="polyline"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:none;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       x="31.811098"
+       y="107.57936"
+       id="text2901"><tspan
+         sodipodi:role="line"
+         id="tspan2899"
+         style="stroke-width:0.765"
+         x="31.811098"
+         y="107.57936" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.250331;stroke-dasharray:none;stroke-opacity:1"
+       x="30.109539"
+       y="102.84286"
+       id="text2905"><tspan
+         sodipodi:role="line"
+         id="tspan2903"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.250331"
+         x="30.109539"
+         y="102.84286">親コミット</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans';-inkscape-font-specification:'Noto Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       x="68.53846"
+       y="102.95229"
+       id="text2909"><tspan
+         sodipodi:role="line"
+         id="tspan2907"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93889px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';stroke-width:0.765"
+         x="68.53846"
+         y="102.95229">最初の子コミット</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.9389px;font-family:'Noto Sans CJK JP';-inkscape-font-specification:'Noto Sans CJK JP';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
+       x="118.42101"
+       y="102.6631"
+       id="text2994"><tspan
+         sodipodi:role="line"
+         id="tspan2992"
+         style="stroke-width:0.765"
+         x="118.42101"
+         y="102.6631">3番目のコミット</tspan></text>
+  </g>
+</svg>
