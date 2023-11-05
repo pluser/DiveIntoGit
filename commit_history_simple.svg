@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="128.17723mm"
-   height="38.219193mm"
-   viewBox="0 0 128.17723 38.219193"
+   width="136.78772mm"
+   height="47.42746mm"
+   viewBox="0 0 136.78772 47.42746"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="true"
      inkscape:zoom="0.914906"
-     inkscape:cx="118.59142"
-     inkscape:cy="316.42595"
+     inkscape:cx="138.26557"
+     inkscape:cy="336.1001"
      inkscape:window-width="1444"
      inkscape:window-height="1236"
      inkscape:window-x="0"
@@ -36,8 +36,8 @@
     <inkscape:grid
        type="xygrid"
        id="grid929"
-       originx="-26.801528"
-       originy="-65.119448" />
+       originx="-21.596073"
+       originy="-59.914" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -84,7 +84,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-26.801528,-65.119445)">
+     transform="translate(-21.596075,-59.913994)">
+    <rect
+       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.765;stroke-linecap:butt;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect19769"
+       width="136.78772"
+       height="47.42746"
+       x="21.596075"
+       y="59.913994" />
     <circle
        style="fill:none;stroke:#000000;stroke-width:0.765;stroke-dasharray:none;stroke-opacity:1"
        id="path114"
